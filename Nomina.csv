@@ -35,12 +35,12 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,Hernandez Lagunes Monica Lizzeth,16-30 Noviembre 2025,"18, 50"
 43913,Herrera May Herberto Agustin,16-30 Noviembre 2025,19
 44229,Elvira Hernandez Ernesto Alberto,16-30 Noviembre 2025,20
-46773,De La Cruz Angel Erika Jazmin,16-30 Noviembre 2025,"21, 40, 51"
+,De La Cruz Angel Erika Jazmin,16-30 Noviembre 2025,"21, 40, 51"
 46966,Rosado Capetillo Antonio,16-30 Noviembre 2025,22
 47393,Mendoza Barron Gustavo,16-30 Noviembre 2025,"23, 59"
 48782,Caraveo Cape Gibran Enrique,16-30 Noviembre 2025,23
 48846,Cervantes Moya Miguel Angel,16-30 Noviembre 2025,24
-48930,Caldelas Gonzalez Elda Iliana,16-30 Noviembre 2025,"25, 51"
+,Caldelas Gonzalez Elda Iliana,16-30 Noviembre 2025,"25, 51"
 48966,Pinilla Rodrigue Juan Antonio,16-30 Noviembre 2025,26
 49351,Guzman Castillo Daniela,16-30 Noviembre 2025,"27, 52"
 51249,Gonzalez Mejia Guadalupe,16-30 Noviembre 2025,"28, 53, 54"
@@ -107,12 +107,12 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,Hernandez Lagunes Monica Lizzeth,1-15 Dic 2025,"17, 48, 74, 91, 102, 127, 145, 155"
 43913,Herrera May Herberto Agustin,1-15 Dic 2025,"18, 75, 128"
 44229,Elvira Hernandez Ernesto Alberto,1-15 Dic 2025,"19, 76, 129"
-46773,De La Cruz Angel Erika Jazmin,1-15 Dic 2025,"20, 38, 49, 77, 102, 103, 130, 146, 156"
+,De La Cruz Angel Erika Jazmin,1-15 Dic 2025,"20, 38, 49, 77, 102, 103, 130, 146, 156"
 46966,Rosado Capetillo Antonio,1-15 Dic 2025,"21, 56, 78, 92, 131, 146"
 47393,Mendoza Barron Gustavo,1-15 Dic 2025,"22, 78, 103, 131, 156"
 48782,Caraveo Cape Gibran Enrique,1-15 Dic 2025,"22, 78, 131"
 48846,Cervantes Moya Miguel Angel,1-15 Dic 2025,"23, 79, 132"
-48930,Caldelas Gonzalez Elda Iliana,1-15 Dic 2025,"24, 49, 80, 103, 133, 157"
+,Caldelas Gonzalez Elda Iliana,1-15 Dic 2025,"24, 49, 80, 103, 133, 157"
 48966,Pinilla Rodrigue Juan Antonio,1-15 Dic 2025,"24, 80, 133"
 49351,Guzman Castillo Daniela,1-15 Dic 2025,"25, 49, 81, 93, 104, 134, 146, 157"
 51249,Gonzalez Mejia Guadalupe,1-15 Dic 2025,"26, 50, 51, 82, 93, 104, 105, 135, 147, 158 (2)"
@@ -205,12 +205,12 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,Hernandez Lagunes Monica Lizzeth,16-31 Dic 2025,"17, 49"
 43913,Herrera May Herberto Agustin,16-31 Dic 2025,18
 44229,Elvira Hernandez Ernesto Alberto,16-31 Dic 2025,19
-46773,De La Cruz Angel Erika Jazmin,16-31 Dic 2025,"20, 39, 50"
+,De La Cruz Angel Erika Jazmin,16-31 Dic 2025,"20, 39, 50"
 46966,Rosado Capetillo Antonio,16-31 Dic 2025,21
 4793,Mendoza Barron Gustavo,16-31 Dic 2025,22
 48782,Caraveo Cape Gibran Enrique,16-31 Dic 2025,22
 48846,Cervantes Moya Miguel Angel,16-31 Dic 2025,23
-48930,Caldelas Gonzalez Elda Iliana,16-31 Dic 2025,"24, 50"
+,Caldelas Gonzalez Elda Iliana,16-31 Dic 2025,"24, 50"
 48966,Pinilla Rodrigue Juan Antonio,16-31 Dic 2025,25
 49351,Guzman Castillo Daniela,16-31 Dic 2025,"26, 51"
 51249,Gonzalez Mejia Guadalupe,16-31 Dic 2025,"27, 52, 53"
@@ -287,12 +287,12 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,1-15 Enero 2026,16
 43913,,1-15 Enero 2026,17
 44229,,1-15 Enero 2026,18
-46773,,1-15 Enero 2026,19
+,,1-15 Enero 2026,19
 46966,,1-15 Enero 2026,20
 47393,,1-15 Enero 2026,21
 48782,,1-15 Enero 2026,21
 48846,,1-15 Enero 2026,22
-48930,,1-15 Enero 2026,23
+,,1-15 Enero 2026,23
 48966,,1-15 Enero 2026,23
 49351,,1-15 Enero 2026,24
 51249,,1-15 Enero 2026,25
@@ -326,8 +326,8 @@ Num. Per,Nombre,Fecha,Núm hojas
 42825,,1-15 Enero 2026,36
 ,,1-15 Enero 2026,36
 ,,1-15 Enero 2026,37
-46773,,1-15 Enero 2026,37
-49495,,1-15 Enero 2026,38
+,,1-15 Enero 2026,37
+,,1-15 Enero 2026,38
 12006,,1-15 Enero 2026,39
 15701,,1-15 Enero 2026,39
 16450,,1-15 Enero 2026,39
@@ -348,8 +348,8 @@ Num. Per,Nombre,Fecha,Núm hojas
 43071,,1-15 Enero 2026,47
 43607,,1-15 Enero 2026,47
 45234,,1-15 Enero 2026,48
-46773,,1-15 Enero 2026,48
-48930,,1-15 Enero 2026,48
+,,1-15 Enero 2026,48
+,,1-15 Enero 2026,48
 49351,,1-15 Enero 2026,49
 50687,,1-15 Enero 2026,49
 51249,,1-15 Enero 2026,50
@@ -365,11 +365,11 @@ Num. Per,Nombre,Fecha,Núm hojas
 1203,,1-15 Enero 2026,56
 36209,,1-15 Enero 2026,56
 42826,,1-15 Enero 2026,57
-48930,,1-15 Enero 2026,57
+,,1-15 Enero 2026,57
 23760,,1-15 Enero 2026,58
 36700,,1-15 Enero 2026,60
 42826,,1-15 Enero 2026,62
-48930,,1-15 Enero 2026,62
+,,1-15 Enero 2026,62
 23760,,1-15 Enero 2026,63
 50687,,1-15 Enero 2026,63
 36209,,1-15 Enero 2026,65
@@ -409,12 +409,12 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,16-31 Enero 2026,17
 43913,,16-31 Enero 2026,18
 44229,,16-31 Enero 2026,19
-46773,,16-31 Enero 2026,20
+,,16-31 Enero 2026,20
 46966,,16-31 Enero 2026,21
 47393,,16-31 Enero 2026,22
 48782,,16-31 Enero 2026,22
 48846,,16-31 Enero 2026,23
-48930,,16-31 Enero 2026,24
+,,16-31 Enero 2026,24
 48966,,16-31 Enero 2026,24
 49351,,16-31 Enero 2026,25
 51249,,16-31 Enero 2026,26
@@ -449,8 +449,8 @@ Num. Per,Nombre,Fecha,Núm hojas
 42825,,16-31 Enero 2026,37
 ,,16-31 Enero 2026,37
 ,,16-31 Enero 2026,38
-46773,,16-31 Enero 2026,38
-49495,,16-31 Enero 2026,39
+,,16-31 Enero 2026,38
+,,16-31 Enero 2026,39
 12006,,16-31 Enero 2026,40
 15701,,16-31 Enero 2026,40
 16450,,16-31 Enero 2026,40
@@ -470,8 +470,8 @@ Num. Per,Nombre,Fecha,Núm hojas
 42826,,16-31 Enero 2026,47
 43071,,16-31 Enero 2026,48
 43607,,16-31 Enero 2026,48
-46773,,16-31 Enero 2026,49
-48930,,16-31 Enero 2026,49
+,,16-31 Enero 2026,49
+,,16-31 Enero 2026,49
 49351,,16-31 Enero 2026,50
 50687,,16-31 Enero 2026,50
 51249,,16-31 Enero 2026,51
@@ -484,7 +484,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 35571,,16-31 Enero 2026,55
 ,,16-31 Enero 2026,55
 42826,,16-31 Enero 2026,57
-48930,,16-31 Enero 2026,57
+,,16-31 Enero 2026,57
 23760,,16-31 Enero 2026,58
 18827,,16-31 Enero 2026,60
 23477,,16-31 Enero 2026,60
@@ -510,7 +510,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 48846,subsidio,16-31 Enero 2026,60
 52475,subsidio,16-31 Enero 2026,60
 42826,Aguinaldo,16-31 Enero 2026,62
-48930,Aguinaldo,16-31 Enero 2026,62
+,Aguinaldo,16-31 Enero 2026,62
 23760,Aguinaldo,16-31 Enero 2026,63
 2641,Lara Garcia Ismael,1-15 Marzo 2026,1
 2727,Betancourt Blanco Fernando,1-15 Marzo 2026,1
@@ -557,7 +557,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,1-15 Marzo 2026,30
 43913,,1-15 Marzo 2026,32
 44229,,1-15 Marzo 2026,33
-46773,,1-15 Marzo 2026,36
+,,1-15 Marzo 2026,36
 46966,,1-15 Marzo 2026,36
 48782,,1-15 Marzo 2026,37
 48846,,1-15 Marzo 2026,38
@@ -618,10 +618,10 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,1-15 Marzo 2026,72
 44229,,1-15 Marzo 2026,72
 45234,,1-15 Marzo 2026,73
-46773,,1-15 Marzo 2026,73
-48930,,1-15 Marzo 2026,75
+,,1-15 Marzo 2026,73
+,,1-15 Marzo 2026,75
 49351,,1-15 Marzo 2026,75
-49495,,1-15 Marzo 2026,76
+,,1-15 Marzo 2026,76
 51249,,1-15 Marzo 2026,77
 53120,,1-15 Marzo 2026,78
 53120,,1-15 Marzo 2026,78
@@ -644,7 +644,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 30828,,1-15 Marzo 2026,87
 30828,,1-15 Marzo 2026,87
 42826,,1-15 Marzo 2026,87
-46773,,1-15 Marzo 2026,88
+,,1-15 Marzo 2026,88
 49351,,1-15 Marzo 2026,88
 53120,,1-15 Marzo 2026,88
 53120,,1-15 Marzo 2026,89
@@ -697,7 +697,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,16-31 Marzo 2026,21
 43913,,16-31 Marzo 2026,22
 44229,,16-31 Marzo 2026,23
-46773,,16-31 Marzo 2026,24
+,,16-31 Marzo 2026,24
 46966,,16-31 Marzo 2026,25
 48782,,16-31 Marzo 2026,25
 48846,,16-31 Marzo 2026,26
@@ -759,10 +759,10 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,16-31 Marzo 2026,50
 44229,,16-31 Marzo 2026,50
 45234,,16-31 Marzo 2026,50
-46773,,16-31 Marzo 2026,51
-48930,,16-31 Marzo 2026,52
+,,16-31 Marzo 2026,51
+,,16-31 Marzo 2026,52
 49351,,16-31 Marzo 2026,53
-49495,,16-31 Marzo 2026,53
+,,16-31 Marzo 2026,53
 51249,,16-31 Marzo 2026,54
 52475,,16-31 Marzo 2026,54
 53120,,16-31 Marzo 2026,55
@@ -809,13 +809,13 @@ Num. Per,Nombre,Fecha,Núm hojas
 ,,16-31 Marzo 2026,72
 11843,,16-31 Marzo 2026,74
 36308,,16-31 Marzo 2026,74
-46773,,16-31 Marzo 2026,74
+,,16-31 Marzo 2026,74
 49351,,16-31 Marzo 2026,75
 19797,,16-31 Marzo 2026,76
 ,,16-31 Marzo 2026,76
 49351,,16-31 Marzo 2026,76
 37436,,16-31 Marzo 2026,77
-46773,,16-31 Marzo 2026,77
+,,16-31 Marzo 2026,77
 49351,,16-31 Marzo 2026,77
 35782,Ortiz Espinosa Joaquin Alfonso,16-31 Octubre 2022,40
 35033,Martinez Diaz Evodia,16-31 Octubre 2022,3
@@ -833,7 +833,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 46966,Rosado Capetillo Antonio,1-15 Julio 2025,26
 48846,Cervantes Moya Miguel Angel,1-15 Julio 2025,26
 48846,Cervantes Moya Miguel Angel,16-31 Agosto 2025,20
-48930,,16-31 Agosto 2025,21
+,,16-31 Agosto 2025,21
 48966,,16-31 Agosto 2025,21
 ,,16-31 Agosto 2025,29
 43071,,16-30 Septiembre 2025,17
@@ -907,7 +907,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,1-15 Febrero 2026,19
 43913,,1-15 Febrero 2026,20
 44229,,1-15 Febrero 2026,20
-46773,,1-15 Febrero 2026,21
+,,1-15 Febrero 2026,21
 46966,,1-15 Febrero 2026,22
 48782,,1-15 Febrero 2026,22
 48846,,1-15 Febrero 2026,22
@@ -960,7 +960,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,1-15 Febrero 2026,40
 44229,,1-15 Febrero 2026,41
 45234,,1-15 Febrero 2026,41
-48930,,1-15 Febrero 2026,42
+,,1-15 Febrero 2026,42
 49351,,1-15 Febrero 2026,43
 51249,,1-15 Febrero 2026,43
 53120,,1-15 Febrero 2026,44
@@ -1014,7 +1014,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,16-28 Febrero 2026,20
 43913,,16-28 Febrero 2026,20
 44229,,16-28 Febrero 2026,21
-46773,,16-28 Febrero 2026,22
+,,16-28 Febrero 2026,22
 46966,,16-28 Febrero 2026,23
 48782,,16-28 Febrero 2026,23
 48846,,16-28 Febrero 2026,23
@@ -1163,7 +1163,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,1-15 Abril 2026,21
 43913,,1-15 Abril 2026,22
 44229,,1-15 Abril 2026,23
-46773,,1-15 Abril 2026,24
+,,1-15 Abril 2026,24
 46966,,1-15 Abril 2026,25
 48782,,1-15 Abril 2026,25
 48846,,1-15 Abril 2026,26
@@ -1226,10 +1226,10 @@ Num. Per,Nombre,Fecha,Núm hojas
 43607,,1-15 Abril 2026,50
 44229,,1-15 Abril 2026,50
 45234,,1-15 Abril 2026,50
-46773,,1-15 Abril 2026,51
-48930,,1-15 Abril 2026,52
+,,1-15 Abril 2026,51
+,,1-15 Abril 2026,52
 49351,,1-15 Abril 2026,53
-49495,,1-15 Abril 2026,53
+,,1-15 Abril 2026,53
 51249,,1-15 Abril 2026,54
 52475,,1-15 Abril 2026,54
 53120,,1-15 Abril 2026,55
