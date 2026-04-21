@@ -219,7 +219,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 53120,Orozco Villegas Carlos Alberto,16-31 Dic 2025,"28, 53"
 54737,Duran Toscano Astrid Adriana,16-31 Dic 2025,28
 57308,Santaella Gonzalez Jorge Bertin,16-31 Dic 2025,29
-57520,Inclan Barragan Jose Alfredo,16-31 Dic 2025,"29, 54"
+,Inclan Barragan Jose Alfredo,16-31 Dic 2025,"29, 54"
 57548,Garcia Calderon Guillermo,16-31 Dic 2025,30
 57992,Garcia Velasco Amado Carlos,16-31 Dic 2025,30
 60025,Romero Castro Jose De Jesus,16-31 Dic 2025,31
@@ -301,7 +301,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 53120,,1-15 Enero 2026,26
 54737,,1-15 Enero 2026,
 57308,,1-15 Enero 2026,27
-57520,,1-15 Enero 2026,
+,,1-15 Enero 2026,
 57521,,1-15 Enero 2026,
 57548,,1-15 Enero 2026,28
 57992,,1-15 Enero 2026,
@@ -423,7 +423,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 53120,,16-31 Enero 2026,27
 54737,,16-31 Enero 2026,27
 57308,,16-31 Enero 2026,28
-57520,,16-31 Enero 2026,28
+,,16-31 Enero 2026,28
 57521,,16-31 Enero 2026,28
 57548,,16-31 Enero 2026,29
 57992,,16-31 Enero 2026,29
@@ -570,7 +570,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 56227,,1-15 Marzo 2026,44
 57308,,1-15 Marzo 2026,45
 57309,,1-15 Marzo 2026,46
-57520,,1-15 Marzo 2026,46
+,,1-15 Marzo 2026,46
 57521,,1-15 Marzo 2026,47
 57992,,1-15 Marzo 2026,48
 2820,,1-15 Marzo 2026,49
@@ -710,7 +710,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 56227,,16-31 Marzo 2026,30
 57308,,16-31 Marzo 2026,30
 57309,,16-31 Marzo 2026,31
-57520,,16-31 Marzo 2026,31
+,,16-31 Marzo 2026,31
 57521,,16-31 Marzo 2026,32
 57992,,16-31 Marzo 2026,32
 2820,,16-31 Marzo 2026,33
@@ -1025,7 +1025,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 52698,,16-28 Febrero 2026,26
 54737,,16-28 Febrero 2026,26
 57308,,16-28 Febrero 2026,27
-57520,,16-28 Febrero 2026,27
+,,16-28 Febrero 2026,27
 57521,,16-28 Febrero 2026,27
 57992,,16-28 Febrero 2026,28
 2820,,16-28 Febrero 2026,29
@@ -1083,7 +1083,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 43913,,16-28 Febrero 2026,51
 44229,,16-28 Febrero 2026,52
 57308,,16-28 Febrero 2026,52
-57520,,16-28 Febrero 2026,52
+,,16-28 Febrero 2026,52
 57521,,16-28 Febrero 2026,53
 41870,,16-28 Febrero 2026,54
 46966,,16-28 Febrero 2026,54
@@ -1176,7 +1176,7 @@ Num. Per,Nombre,Fecha,Núm hojas
 56227,,1-15 Abril 2026,29
 57308,,1-15 Abril 2026,30
 57309,,1-15 Abril 2026,30
-57520,,1-15 Abril 2026,31
+,,1-15 Abril 2026,31
 57521,,1-15 Abril 2026,31
 57992,,1-15 Abril 2026,32
 2820,,1-15 Abril 2026,33
